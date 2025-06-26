@@ -18,5 +18,6 @@ public class Sampleee {
 		scanner.close();
 
 		System.out.println("Branch 1");
+		System.out.println("Branch 2");
 	}
 }
